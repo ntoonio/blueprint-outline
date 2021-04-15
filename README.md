@@ -7,7 +7,7 @@ This is a resource pack that adds an outline to some non full blocks to make it 
 The resource pack works by changeing the block models, and therefor every variant of slabs, stairs, and so on will be outlined.
 
 ## Blocks to add
-- [ ] Inner stairs
+- [x] Inner stairs
 - [ ] Outer stairs
 - [ ] Walls
 - [ ] Full blocks?
