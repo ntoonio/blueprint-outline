@@ -182,21 +182,21 @@
 			"from": [ 9, 16, 1 ],
 			"to": [ 15, 16, 15 ],
 			"faces": {
-				"up":	 { "texture": "#side", "cullface": "up" }
+				"up":	 { "texture": "#top", "cullface": "up" }
 			}
 		},
 		{
 			"from": [ 1, 16, 9 ],
 			"to": [ 9, 16, 15 ],
 			"faces": {
-				"up":	 { "texture": "#side", "cullface": "up" }
+				"up":	 { "texture": "#top", "cullface": "up" }
 			}
 		},
 		{
 			"from": [ 1, 8, 1 ],
 			"to": [ 8, 8, 8 ],
 			"faces": {
-				"up":	 { "texture": "#side", "cullface": "up" }
+				"up":	 { "texture": "#top", "cullface": "up" }
 			}
 		},
 
@@ -204,7 +204,7 @@
 			"from": [ 1, 0, 1 ],
 			"to": [ 15, 0, 15 ],
 			"faces": {
-				"down": { "texture": "#side", "cullface": "down" }
+				"down": { "texture": "#bottom", "cullface": "down" }
 			}
 		},
 
