@@ -129,13 +129,13 @@
 		{   "from": [ 1, 16, 1 ],
             "to": [ 15, 16, 15 ],
             "faces": {
-                "up":    { "texture": "#side" }
+                "up":    { "texture": "#top" }
             }
         },
 		{   "from": [ 1, 8, 1 ],
             "to": [ 15, 8, 15 ],
             "faces": {
-				"down":  { "texture": "#side", "cullface": "down" }
+				"down":  { "texture": "#bottom", "cullface": "down" }
             }
         }
     ]
