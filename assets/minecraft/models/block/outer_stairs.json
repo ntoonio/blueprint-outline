@@ -1,7 +1,7 @@
 {
     "textures": {
         "particle": "#side",
-		"outline": "minecraft:stair_outer"
+		"outline": "minecraft:outlines/stair_outer"
     },
     "elements": [
         {
